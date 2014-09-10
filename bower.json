@@ -1,0 +1,20 @@
+{
+  "name": "frontend-project-scaffold",
+  "version": "0.0.1",
+  "authors": [
+    "Kacper Kula <kacper.kula@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.24",
+    "angular-route": "~1.2.24"
+  }
+}
